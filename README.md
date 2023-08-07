@@ -52,6 +52,15 @@ Thank you for taking the time to read about me, and feel free to check out my pr
 
 </td><td valign="top" width="33%">
 
+### Machine-Learning  
+<div align="center">  
+<img style="margin: 10px" src="https://https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas" height="50" />
+<img style="margin: 10px" src="https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy" height="50" />
+</div>
+
+</td><td valign="top" width="33%">
+
 
 
 ### Backend  
